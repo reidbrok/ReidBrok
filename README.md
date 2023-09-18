@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+👋 Hi, I’m Yushu Zou
+👀 I’m interested in Biostatistics and Applied Statistics. 
+🌱 I’m currently studying full-time at the University of Toronto, MSc Biostatistics
+
+
 <!--
 **reidbrok/ReidBrok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
