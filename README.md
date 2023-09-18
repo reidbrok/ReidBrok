@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I’m Yushu Zou
 
-👋 Hi, I’m Yushu Zou
 👀 I’m interested in Biostatistics and Applied Statistics. 
+
 🌱 I’m currently studying full-time at the University of Toronto, MSc Biostatistics
 
 
